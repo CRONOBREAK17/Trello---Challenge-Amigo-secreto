@@ -1,4 +1,4 @@
-# Amigo Secreto 🎁
+# Amigo Secreto 
 
 Este proyecto es una pequeña aplicación web que permite simular el sorteo de un **amigo secreto**. A través de una interfaz sencilla en HTML y CSS, puedes añadir nombres de personas a una lista, visualizar la lista y realizar un sorteo aleatorio para saber quién será el amigo secreto. Es un ejercicio ideal para practicar la manipulación del DOM y la lógica básica en JavaScript.
 
